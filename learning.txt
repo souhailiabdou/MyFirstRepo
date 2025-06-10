@@ -1,0 +1,1 @@
+So far in this course, I’ve learned how to use Git for version control, including cloning repositories, committing changes, and pushing updates to GitHub. It’s a powerful tool for collaborative work and tracking project progress.
